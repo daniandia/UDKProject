@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0FB0743E-4EC5-5F29-E8FB-74BC6F320E1C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UdemiProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
